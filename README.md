@@ -1,5 +1,5 @@
 # BoomBikes Analysis
-TTo conduct an analysis of the factors affecting the demand for shared bikes in the American market for BoomBikes, we need to consider various aspects such as market trends, consumer preferences, economic factors, and competition.
+To conduct an analysis of the factors affecting the demand for shared bikes in the American market for BoomBikes, we need to consider various aspects such as market trends, consumer preferences, economic factors.
 
 ## Table of Contents
 * [General Info](#general-information)
